@@ -23,5 +23,4 @@ This is the first part of the Spring Framework assignment for Vistula University
 3. Open browser at `http://localhost:8080/greeting?`.
 
 ## Screenshots
-> **Note to student:** Place your screenshot of the browser with the Vistula logo here.
 ![Task 1 Greeting Screen](screenshots/task1_result.png)
